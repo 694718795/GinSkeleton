@@ -29,5 +29,3 @@
 - 2.文件上传不允许空文件.
 
 
-### 感谢 jetbrains 为本项目提供的 goland 激活码
-![https://www.jetbrains.com/](https://www.ginskeleton.com/images/jetbrains.jpg)
